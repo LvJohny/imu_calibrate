@@ -1,5 +1,5 @@
-# pointgray_aruco
-pointgray camera and aruco detection
+# imu_calibrate
+imu_calibrate of xsens Mti-G-710
 
 # install
 ...
