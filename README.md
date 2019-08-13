@@ -1,2 +1,5 @@
-# imu_calibrate
-copy of gaowenliang/imu_utils and settle some issues
+# pointgray_aruco
+pointgray camera and aruco detection
+
+# install
+...
