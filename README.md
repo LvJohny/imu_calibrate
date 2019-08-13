@@ -1,5 +1,5 @@
 # imu_calibrate
-imu_calibrate of xsens Mti-G-710
+imu_calibrate of xsens Mti-G-710,detail can be found at [gaowenliang/imu_utils](https://github.com/gaowenliang/imu_utils)
 
 ## build
 ```
